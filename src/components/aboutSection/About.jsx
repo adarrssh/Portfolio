@@ -41,7 +41,7 @@ const About = () => {
     <Badge fontSize="medium" colorScheme="teal" wordBreak="break-word">FULL-STACK DEVELOPER</Badge> with 3 years of experience building scalable, real-time applications.
   </Text>
   <Text fontSize="large">
-  At <Badge fontSize="medium" colorScheme="purple" wordBreak="break-word">Pepsales AI</Badge>, I lead frontend initiatives for our AI-driven admin panel, implementing 
+  At <Badge fontSize="medium" colorScheme="purple" wordBreak="break-word">Pepsales AI</Badge>,I contributed to the development of our AI-driven admin panel, implementing 
   <Badge fontSize="medium" colorScheme="blue" wordBreak="break-word"> low-latency socket communication</Badge>, 
   <Badge fontSize="medium" colorScheme="blue" wordBreak="break-word"> role-based access controls</Badge>, and 
   <Badge fontSize="medium" colorScheme="blue" wordBreak="break-word"> performance optimization</Badge> techniques.

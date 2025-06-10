@@ -44,7 +44,7 @@ import ReadOnlyContent from '../ReadOnlyMarkdown';
 const experiences = [
   {
     role: "Software Developer",
-    company: `**Multiplicity Technologies Pvt Ltd (Pepsales)** *(Bengaluru, India)*`,
+    company: `**Pepsales AI** *(Bengaluru, India)*`,
     duration: "Nov 2024 - Present",
     description: `- Developed a **real-time call-analysis** player that synchronizes transcripts with sales recordings.
 - Built **Recharts-based dashboards** to visualize conversation metrics for 100+ sales representatives.
@@ -69,12 +69,6 @@ const experiences = [
 - Utilized **AWS S3** for document storage and **DynamoDB** for data management.
 - Designed and implemented **webhooks** to automate and optimize the investment creation process.
 - Ensured real-time notifications and enhanced overall efficiency of the platform.`
-  },
-  {
-    role: "React JS Developer",
-    company: `**Tata Consultancy Services** *(Pune)*`,
-    duration: "Jan 2021 - Oct 2022",
-    description: "- Collaborated with **cross-functional teams** to develop scalable frontend solutions.  \n- Built an **Employee ticketing system** similar to ServiceNow for efficient issue tracking.  \n- Developed **interactive dashboards** to visualize ticket status and progress.  \n- Enhanced **user experience** with responsive UI and dynamic components."
   },
   {
     role: "Bachelor of Computer Application",
