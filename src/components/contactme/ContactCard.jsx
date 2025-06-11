@@ -27,8 +27,8 @@ const ContactCard = () => {
         <Stack spacing={4} align="center">
           <Flex align="center">
             <Icon as={RiWhatsappFill} w={5} h={5} mr={2} />
-            <Link href="tel:+919970758021" fontSize="lg" color="blue.500">
-              +919970758021
+            <Link href="tel:+918178065152" fontSize="lg" color="blue.500">
+              +918178065152
             </Link>
           </Flex>
         </Stack>

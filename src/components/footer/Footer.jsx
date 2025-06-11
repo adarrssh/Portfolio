@@ -13,7 +13,7 @@ const Footer = () => {
         px={4}
         gap={'10px'}
       >
-        <Text mb={{ base: 1, md: 0 }}  >© {new Date().getFullYear()} Shrihari Jadhav. All rights reserved.</Text>
+        <Text mb={{ base: 1, md: 0 }}  >© {new Date().getFullYear()} Adarsh. All rights reserved.</Text>
         
          
       </Flex>

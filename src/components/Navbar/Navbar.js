@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <nav className='absolute w-full mx-auto z-10 py-4 bg-transparent pl-10'>
       <div className='container mx-auto flex px-2 justify-between  items-center w-11/12'>
-        <div className=' font-bold text-2xl text-yellow-200 hidden  lg:flex'>Shrihari Jadhav</div>
+        <div className=' font-bold text-2xl text-yellow-200 hidden  lg:flex'>Adarsh</div>
         <div className=' font-bold text-2xl text-yellow-200 flex  lg:hidden'>
         <img src={harryLogo} alt='sj' className='w-10 h-10'/>
 
